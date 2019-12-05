@@ -10,6 +10,7 @@ Create file with dependencies (`conanfile.txt`). Then, run:
 # mkdir build && cd build
 # conan install ..
 # # OR: conan install --build log4cplus
+# # OR: conan install -o log4cplus:shared=True
 # cmake ..
 # make
 ```
