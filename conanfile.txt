@@ -1,0 +1,8 @@
+[requires]
+log4cplus/2.0.4@bincrafters/stable
+
+[generators]
+cmake
+
+[options]
+log4cplus:shared=True
